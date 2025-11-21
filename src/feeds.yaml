@@ -1,9 +1,8 @@
-# Replace the URLs below with allowed/public feeds for Massachusetts agencies, committees, etc.
-# Only add sources that provide RSS/Atom (for press) or ICS (for hearings) and whose terms allow automated access.
-
 rss:
-- https://pluralpolicy.com/app/person/2422/bills-sponsored?jurisdictions=ma&page=1
+  - "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+  - "https://hnrss.org/frontpage"
 
 ics:
-- https://malegislature.gov/Events
+  - "https://calendar.google.com/calendar/ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics"
+
   
