@@ -1,0 +1,10 @@
+# Replace the URLs below with allowed/public feeds for Massachusetts agencies, committees, etc.
+# Only add sources that provide RSS/Atom (for press) or ICS (for hearings) and whose terms allow automated access.
+
+rss:
+  - "https://example.com/press.rss"
+  - "https://example.org/agency/news.atom"
+
+ics:
+  - "https://example.com/hearings.ics"
+  - "https://example.org/calendar.ics"
