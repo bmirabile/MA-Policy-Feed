@@ -2,8 +2,8 @@
 # Only add sources that provide RSS/Atom (for press) or ICS (for hearings) and whose terms allow automated access.
 
 rss:
-https://pluralpolicy.com/app/person/2422/bills-sponsored?jurisdictions=ma&page=1
+- https://pluralpolicy.com/app/person/2422/bills-sponsored?jurisdictions=ma&page=1
 
 ics:
-  https://malegislature.gov/Events
+- https://malegislature.gov/Events
   
