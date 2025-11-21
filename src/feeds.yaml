@@ -2,9 +2,8 @@
 # Only add sources that provide RSS/Atom (for press) or ICS (for hearings) and whose terms allow automated access.
 
 rss:
-  - "https://example.com/press.rss"
-  - "https://example.org/agency/news.atom"
+https://pluralpolicy.com/app/person/2422/bills-sponsored?jurisdictions=ma&page=1
 
 ics:
-  - "https://example.com/hearings.ics"
-  - "https://example.org/calendar.ics"
+  https://malegislature.gov/Events
+  
