@@ -1,8 +1,4 @@
 rss:
-  - "https://www.nasa.gov/rss/dyn/breaking_news.rss"
-  - "https://hnrss.org/frontpage"
-
-ics:
-  - "https://calendar.google.com/calendar/ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics"
+  - "https://legiscan.com/gaits/feed/0beda39602bdbbc7eb2f56ec7a5f8a32.rss"
 
   
